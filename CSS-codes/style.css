@@ -1,0 +1,23 @@
+body{
+	font-family: Helvetica;
+	background-color: #eee;
+	color: #eee;
+}
+
+h1 {
+	font-size: 50px;
+	margin: 0;
+}
+
+p(
+	font-style: italic;
+)
+
+h2 {
+	color: #eee;
+	border-top: solid 1px #eee;
+}
+
+ol{
+	border-bottom: solid 1px #eee;
+}
